@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "name": "Randy Spizer"
+    }
+  ],
+  "executives": [
+    {
+      "name": "Lorriane Vigna",
+      "group": "Facilities",
+      "quality_score": 79.83,
+      "success_rate": 70.44
+    },
+    {
+      "name": "Sharice Bogardus",
+      "group": "Information Technology",
+      "quality_score": 83.78,
+      "success_rate": 55.0
+    },
+    {
+      "name": "Susann Racca",
+      "group": "Safety and Security",
+      "quality_score": 65.56,
+      "success_rate": 80.59
+    },
+    {
+      "name": "Chere Winfield",
+      "group": "Security and Trust",
+      "quality_score": 73.15,
+      "success_rate": 74.39
+    },
+    {
+      "name": "Denisse Maus",
+      "group": "Global Safety",
+      "quality_score": 71.34,
+      "success_rate": 86.68
+    },
+    {
+      "name": "Alina Michel",
+      "group": "Employee Relations",
+      "quality_score": 45.08,
+      "success_rate": 83.07
+    },
+    {
+      "name": "Melynda Lemke",
+      "group": "Engineering",
+      "quality_score": 80.21,
+      "success_rate": 61.29
+    },
+    {
+      "name": "Deanne Romano",
+      "group": "Recruiting",
+      "quality_score": 61.45,
+      "success_rate": 62.95
+    },
+    {
+      "name": "Dale Akins",
+      "group": "Product Design",
+      "quality_score": 76.96,
+      "success_rate": 82.03
+    }
+  ]
+}

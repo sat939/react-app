@@ -1,0 +1,70 @@
+table {
+    padding: 1% 6.5%;
+    border-spacing: 0px;
+    width: 95%;
+}
+
+td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 85px;
+    height: 10px;
+    border-bottom: 0.5px solid rgb(160, 157, 157);
+
+}
+
+.first-td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    height: 10px;
+    border-bottom: 0.5px solid rgb(160, 157, 157);
+}
+
+.last-td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 110px;
+    height: 10px;
+    border-bottom: 0.5px solid rgb(160, 157, 157);
+    width: 140px;
+    border-top: rgb(69, 216, 69);
+}
+
+.score-td{
+    display: inline-block;
+    width: 40px;
+    padding-left: 15px;
+}
+
+.lastTd-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 95px;
+    height: 10px;
+    border-bottom: 0.5px solid rgb(160, 157, 157);
+    width: 140px;
+}
+
+
+.meta-container,
+span {
+    padding-left: 2%;
+}
+
+.meta-container {
+    margin-left: 2.8%;
+    margin-top: 1.2%;
+    margin-bottom: 5%;
+}
+
+
+
+.name-button {
+    background: none;
+    border: none;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: large;
+    padding: 0px 0px !important;
+    cursor: pointer;
+}

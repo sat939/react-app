@@ -1,0 +1,28 @@
+
+.App-header {
+background: linear-gradient(-90deg,rgb(3, 113, 187), rgb(89, 163, 212));
+height: 65px;
+margin: auto;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+body {
+  padding: 0;
+  margin: auto;
+}
+
+div {
+  margin-top: 0;
+}
+
+.header-text {
+  padding-bottom: 1.5%;
+  padding-top: 1.5%;
+  padding-left: 1%;
+   font-size: 22px;
+   color: white;
+   margin: auto;
+}
